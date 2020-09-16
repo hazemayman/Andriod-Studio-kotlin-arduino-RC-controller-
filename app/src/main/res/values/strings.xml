@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RC controller</string>
+
+    <string name="res1">
+        About App
+    </string>
+    <string name="question1">
+        this application is made to establish a bluetooth network on a RC car via mobile phone and you can add whatever feature you want just by changing the actual sending value to the microcontroller you are using in your project you can use whatever microcontroller you want as long as it is connected to the bluetooth module you are using
+    </string>
+    <string name="res2">
+        Restriction
+    </string>
+    <string name="question2_1">
+        you must notice that u have to use a mobile phone with bluetooth V2.0 to make the proper connection to the bluetooth module that you are using
+
+
+    </string>
+    <string name="question2_2">
+        you must notice that u have to use a mobile phone with bluetooth V2.0 to make the proper connection to the bluetooth module that you are using
+
+
+    </string>
+    <string name="res3">
+        About Us
+
+    </string>
+    <string name="question3">
+        the creators of this app are members of android software developers of mustangs team , Hazem ayman and Hesham labani , if you want to contacr us please send an Email to this Account hazemhany09@gmail.com
+    </string>
+</resources>
